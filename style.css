@@ -1,1 +1,14 @@
-
+.judul {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.lirik {
+    font-family: 'Gill sans', sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
+.body {
+    background-color: darkslateblue;
+}
